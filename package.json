@@ -1,0 +1,34 @@
+{
+  "name": "json-schema-to-graphql",
+  "version": "0.0.1",
+  "description": "JSON Schema to GraphQL",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlypoly/json-schema-to-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "json-schema"
+  ],
+  "author": "Charly POLY <cpoly55@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlypoly/json-schema-to-graphql/issues"
+  },
+  "homepage": "https://github.com/charlypoly/json-schema-to-graphql#readme",
+  "devDependencies": {
+    "@types/assert": "^1.5.5",
+    "@types/json-schema": "^7.0.9",
+    "graphql": "^15.5.1"
+  },
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
