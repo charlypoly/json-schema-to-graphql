@@ -1,8 +1,8 @@
 {
-  "name": "json-schema-to-graphql",
+  "name": "@wittydeveloper/json-schema-to-graphql",
   "version": "0.0.1",
   "description": "JSON Schema to GraphQL",
-  "main": "index.js",
+  "main": "dist/index.js",
   "directories": {
     "lib": "lib"
   },

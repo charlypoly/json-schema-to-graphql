@@ -1,11 +1,9 @@
-# json-schema-to-graphql
-
-JSON Schema to GraphQL lib (JS/TS)
+# JSON Schema to GraphQL
 
 ## Usage
 
 ```ts
-import { convert } from 'json-schema-to-graphql'
+import { convert } from '@wittydeveloper/json-schema-2-graphql'
 
 const schema: JSONSchema6 = {
   $schema: 'http://json-schema.org/draft-06/schema#',
