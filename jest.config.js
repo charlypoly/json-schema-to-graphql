@@ -17,7 +17,7 @@ module.exports = {
   coverageReporters: ['text', 'lcov'],
   collectCoverage: true,
   coverageThreshold: {
-    'src/lib': {
+    'lib/': {
       branches: 70,
     },
   },
