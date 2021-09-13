@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/charlypoly/json-schema-to-graphql#readme",
   "devDependencies": {
-    "@types/assert": "1.5.5",
+    "@types/assert": "1.5.6",
     "@types/jest": "27.0.1",
     "@types/json-schema": "7.0.9",
     "graphql": "15.5.1",
