@@ -1,5 +1,11 @@
 # JSON Schema to GraphQL
 
+## Install
+
+```bash
+npm install @wittydeveloper/json-schema-to-graphql
+```
+
 ## Usage
 
 ```ts
