@@ -31,7 +31,7 @@
     "ts-jest": "27.0.5"
   },
   "dependencies": {
-    "graphql": "15.5.1",
+    "graphql": "16.8.1",
     "assert": "^2.0.0"
   }
 }
